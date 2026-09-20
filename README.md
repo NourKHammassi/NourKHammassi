@@ -37,7 +37,7 @@ to the mix.
 
 **DocuMind** — Upload a PDF, ask it anything.  
 React + FastAPI + Claude API · Vercel + Railway  
-→ [link]
+→ [github.com/NourKHammassi/DocuMind](https://github.com/NourKHammassi/DocuMind)
 
 **Next** — Next.js 15 + .NET 8 + PostgreSQL + Docker.  
 Full-stack, no framework lock-in, shipping soon.
