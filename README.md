@@ -41,6 +41,7 @@ React + FastAPI + PostgreSQL · RAG pipeline (pgvector + fastembed) · JWT auth 
 **BookIt** — Hotel & apartment booking platform.
 Next.js 15 + .NET 8 Clean Architecture + PostgreSQL + Docker
 → Coming soon
+
 ---
 
 ### Certifications
