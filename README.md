@@ -32,16 +32,15 @@ to the mix.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ---
+## Currently building
 
-### Currently building
-
-**DocuMind** — Upload a PDF, ask it anything.  
-React + FastAPI + Claude API · Vercel + Railway  
+**DocuMind** — Upload a PDF, ask it anything.
+React + FastAPI + PostgreSQL · RAG pipeline (pgvector + fastembed) · JWT auth · Streaming SSE
 → [github.com/NourKHammassi/DocuMind](https://github.com/NourKHammassi/DocuMind)
 
-**Next** — Next.js 15 + .NET 8 + PostgreSQL + Docker.  
-Full-stack, no framework lock-in, shipping soon.
-
+**BookIt** — Hotel & apartment booking platform.
+Next.js 15 + .NET 8 Clean Architecture + PostgreSQL + Docker
+→ Coming soon
 ---
 
 ### Certifications
