@@ -38,9 +38,8 @@ to the mix.
 React + FastAPI + PostgreSQL · RAG pipeline (pgvector + fastembed) · JWT auth · Streaming SSE
 → [github.com/NourKHammassi/DocuMind](https://github.com/NourKHammassi/DocuMind)
 
-**BookIt** — Hotel & apartment booking platform.
-Next.js 15 + .NET 8 Clean Architecture + PostgreSQL + Docker
-→ Coming soon
+**BookIt** — Hotel & apartment booking platform. Next.js 15 + TypeScript + Prisma + PostgreSQL · Stripe payments · Leaflet maps · Cloudinary uploads · NextAuth.js
+→ [github.com/NourKHammassi/BookIt](https://github.com/NourKHammassi/BookIt)
 
 ---
 
