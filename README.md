@@ -1,5 +1,7 @@
 # Nour Khammassi
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 Full-Stack Engineer. I like building things that work — clean APIs, 
 fast frontends, and the architecture that holds it together under pressure.
 
