@@ -23,7 +23,7 @@ to the mix.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat&logo=microsoft-azure&logoColor=white)
@@ -34,7 +34,11 @@ to the mix.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ---
+
 ## Currently building
+
+**Dukkan** — Multi-vendor marketplace. .NET 10 Clean Architecture + React 19 + TypeScript · Zustand cart & auth · PostgreSQL + EF Core · JWT · REST API
+→ [github.com/NourKHammassi/Dukkan](https://github.com/NourKHammassi/Dukkan)
 
 **DocuMind** — Upload a PDF, ask it anything.
 React + FastAPI + PostgreSQL · RAG pipeline (pgvector + fastembed) · JWT auth · Streaming SSE
